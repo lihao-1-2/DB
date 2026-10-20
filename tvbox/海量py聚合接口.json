@@ -101,6 +101,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "红果短剧",
+      "name": "红果 • 短剧",
+      "type": 3,
+      "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "世界听书",
+      "name": "世界 • 听书",
+      "type": 3,
+      "api": "https://oss-v1.wangmeipo.cn/236/世界听书.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
